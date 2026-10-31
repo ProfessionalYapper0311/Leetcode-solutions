@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
@@ -48,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
