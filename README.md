@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -63,4 +64,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
