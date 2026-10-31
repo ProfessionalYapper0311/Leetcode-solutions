@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
