@@ -42,7 +42,7 @@ public:
             }
             cur = cur->children[ch];
         }
-        return cur->endofwords;
+        return cur!=nullptr && cur->endofwords;
     }
     bool search(string word) {
         return searchUtil(root, word, 0); //pass the idx of word
