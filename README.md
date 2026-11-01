@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1046-last-stone-weight](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Binary Search
 |  |
 | ------- |
