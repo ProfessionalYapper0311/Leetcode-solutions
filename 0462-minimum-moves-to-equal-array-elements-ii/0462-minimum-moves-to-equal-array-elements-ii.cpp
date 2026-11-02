@@ -1,6 +1,3 @@
-//solution is to return the sum of abs differnce between x and the mid
-//find median if odd n/2 , if even [(n-2/2 + n/2) /2.0]
-//add x - mid for each nums in array to moves
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
@@ -21,3 +18,7 @@ public:
         return moves;
     }
 };
+
+//solution is to return the sum of abs differnce between x and the mid
+//find median if odd n/2 , if even [(n-2/2 + n/2) /2.0]
+//add x - mid for each nums in array to moves
