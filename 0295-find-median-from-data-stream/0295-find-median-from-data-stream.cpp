@@ -28,9 +28,11 @@ public:
     }
     
     double findMedian() {
+        //same size, then even
         if(left_pq.size() == right_pq.size()){
             return (double) (left_pq.top() + right_pq.top()) / 2.0;
         }
+        //left > right, odd
         return (double) left_pq.top();
     }
 };
