@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
