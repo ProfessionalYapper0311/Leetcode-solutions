@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
