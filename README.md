@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
