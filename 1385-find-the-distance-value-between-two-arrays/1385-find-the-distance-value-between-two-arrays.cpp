@@ -14,7 +14,7 @@ public:
             if(j == 0){
                 count += (abs(arr1[i] - arr2[0]) > d); 
             } //all elements are greater than arr[i]
-            else if(j >=n ){
+            else if(j ==n ){
                 count += (abs(arr1[i] - arr2[n-1]) > d);
             }//all elements are smaller than n
             else{
