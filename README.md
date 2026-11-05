@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Depth-First Search
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
