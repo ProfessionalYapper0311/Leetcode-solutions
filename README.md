@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quickselect
 |  |
 | ------- |
