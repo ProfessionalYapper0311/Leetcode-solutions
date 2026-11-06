@@ -2,7 +2,8 @@ class Solution {
 public:
 vector<vector<int>>result;
     void solve(vector<int>& temp, vector<int>& nums, int idx){
-        result.push_back(temp);//check not needed because 
+        result.push_back(temp);//check not needed because all states are valid state, simply push
+        //i>=n is handled by for loop itself, it will never go past beyond n
 
         for(int i=idx; i<nums.size(); i++){
             if(i>idx && nums[i-1] == nums[i]){
