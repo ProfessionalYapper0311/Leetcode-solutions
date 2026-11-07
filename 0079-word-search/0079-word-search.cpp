@@ -5,15 +5,15 @@ vector<vector<int>>directions{{1,0},{-1, 0},{0, 1},{0, -1}}; //direction vector
 
     bool find(vector<vector<char>>& grid, string& word, int i, int j, int idx){
         if(idx == word.length()){
-            return true; //base case 3 - last char of the word
+            return true; //base case 1 - all char mathced
         }
 
         if(i<0 || j<0|| i>=m || j>=n|| grid[i][j] == '$'){
-            return false; //base case 1
+            return false; //base case 2
         }
 
         if(grid[i][j] != word[idx]){
-            return false; //base case 2
+            return false; //base case 3
         } 
 
         char temp = grid[i][j];
