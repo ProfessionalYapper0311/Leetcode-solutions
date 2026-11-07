@@ -1,42 +1,45 @@
 class Solution {
 public:
-int m;
-int n;
-    vector<vector<int>>directions{{1, 0},{-1, 0},{0, 1},{0, -1}}; //up down right left
+int m, n;
+vector<vector<int>>directions{{1,0},{-1, 0},{0, 1},{0, -1}}; //direction vector
 
-    bool find(vector<vector<char>>& board, int i, int j, int idx, string& word){
-        if(idx == word.length()) return true; //word all found
+    bool find(vector<vector<char>>& grid, string& word, int i, int j, int idx){
+        if(idx == word.length()){
+            return true; //base case 3 - last char of the word
+        }
 
-        if( i<0 || j<0 || i>=m || j>=n || board[i][j] == '#' /*visted*/){
-            return false;
-        } //out of bounds
+        if(i<0 || j<0|| i>=m || j>=n|| grid[i][j] == '$'){
+            return false; //base case 1
+        }
 
-        if(board[i][j] != word[idx]) return false; //word not found
+        if(grid[i][j] != word[idx]){
+            return false; //base case 2
+        } 
 
-        char temp = board[i][j]; 
-        board[i][j] = '#';
+        char temp = grid[i][j];
+        grid[i][j] = '$';//mark visited
 
-        //calc new direction for the new woor dor idx+1
-        for(auto &dir: directions){
+        for(auto &dir : directions){
             int new_i = i + dir[0];
             int new_j = j + dir[1];
 
-            if(find(board, new_i, new_j, idx+1, word)){
-                return true;
+            if( find(grid, word, new_i, new_j, idx + 1) ){ 
+                //go to the next char now, e.g: 0 was passed, then 1
+                return true; //word found
             }
         }
-        board[i][j] = temp;
+        grid[i][j] = temp; //unvisited again
         return false;
     }
-
-    bool exist(vector<vector<char>>& board, string word) {
-        m = board.size();
-        n = board[0].size();
-
+    bool exist(vector<vector<char>>& grid, string word) {
+        m = grid.size();
+        n = grid[0].size();
+ 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
-                if(board[i][j] == word[0] && find(board, i, j, 0, word)){
-                    return true;
+                if(grid[i][j] == word[0] && find(grid, word, i, j, 0 /*word_idx*/)){
+                    //found the first word and started the dfs
+                    return true;     
                 }
             }
         }
