@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Math
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
 |  |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0090-subsets-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
