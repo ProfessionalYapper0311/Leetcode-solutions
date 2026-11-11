@@ -22,7 +22,7 @@ int solve(vector<vector<int>>& grid, int i, int j){
 }
 
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        if(grid.size() == 0){
+        if(grid.empty()){
             return 0;
         } //no grid, return 0 
 
@@ -33,8 +33,7 @@ int solve(vector<vector<int>>& grid, int i, int j){
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(grid[i][j] == 1){
-                    int area = solve(grid, i, j); 
-                    max_area = max(area, max_area);
+                    max_area = max(max_area, solve(grid, i , j));
                 }
             }
         }
