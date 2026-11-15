@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0133-clone-graph](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0079-word-search) |
+| [0133-clone-graph](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0695-max-area-of-island](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Union-Find
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0051-n-queens) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
