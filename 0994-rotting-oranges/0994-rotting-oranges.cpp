@@ -57,3 +57,6 @@ vector<vector<int>> directions{ {0, 1}, {0, -1}, {1, 0}, {-1, 0}}; //direction v
         return (fresh_og == 0) ? (min_count - 1) : -1;
     }
 };
+
+//tc = o(m.n) or o(row * col), bfs
+//sc = o(row.col); worst case all rotten orange so iterate thorugh all matrix and store o(row.col) elements
