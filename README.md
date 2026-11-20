@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0078-subsets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -214,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0133-clone-graph) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
