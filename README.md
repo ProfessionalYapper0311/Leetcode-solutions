@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ProfessionalYapper0311/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
