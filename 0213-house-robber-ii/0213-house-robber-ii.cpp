@@ -4,7 +4,7 @@ public:
         int len = end - start + 1; //subarray size either 0 -> n-2 or 1 -> n-1, not full array size
         if(len == 1) return nums[start]; //base case
 
-        int best[101];
+        int best[101]; //better rather than o(n)
 
         best[0] = nums[start]; //first index of nums
         best[1] = max(nums[start], nums[start + 1]); //max of both first and second index
@@ -25,6 +25,7 @@ public:
         return max(maxRobHouse(nums, 0, n-2), maxRobHouse(nums, 1, n-1)); //case 1 and case 2, max of both
     }
 };
-
+//tc is o(n) -> called twice, so lineear o(n) + o(n) = o(n)
+//sc -> just once best[101]. so o(1)
 //last time -> best, best[i-1] or nums[i] + best[i-2], and then best[n-1], skip or steal that is
 //diff is that house's are in circle, therefore (1, 2, 3, 4 -> 1) like we can't steal 1 and 2, similrly 1 and 4 also
