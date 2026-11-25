@@ -4,7 +4,7 @@ public:
         int len = end - start + 1; //subarray size either 0 -> n-2 or 1 -> n-1, not full array size
         if(len == 1) return nums[start]; //base case
 
-        vector<int>best(len);
+        int best[101];
 
         best[0] = nums[start]; //first index of nums
         best[1] = max(nums[start], nums[start + 1]); //max of both first and second index
