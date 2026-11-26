@@ -18,7 +18,7 @@ public:
             return memo[i][j] = solve(s, i+1, j-1);
         }
         else{
-            return 0; //false, not necc but memo just in case?
+            return memo[i][j] = 0; //false, not necc but memo just in case?
         }
     }
     string longestPalindrome(string s) {
